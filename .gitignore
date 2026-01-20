@@ -1,0 +1,81 @@
+######################################################################
+# Build Tools
+
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+.flattened-pom.xml
+
+######################################################################
+# IDE
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/*
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+######################################################################
+# Others
+*.log
+*.xml.versionsBackup
+*.swp
+
+!*/build/*.java
+!*/build/*.html
+!*/build/*.xml
+
+### JRebel ###
+rebel.xml
+
+### Local config ###
+application-my.yaml
+application-local-*.yaml
+**/application-local-*.yaml
+
+### Environment files (private) ###
+*.env.local
+.env.local
+http-client.private.env.json
+
+### OS ###
+**/.DS_Store
+Thumbs.db
+
+### Claude Code ###
+.claude
+
+### Test reports ###
+**/test-output/
+**/surefire-reports/
+
+### Package files ###
+*.jar
+*.war
+*.ear
+!**/wrapper/*.jar
+
+/plans
