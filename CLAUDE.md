@@ -13,6 +13,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ├── .claude/
 │   └── skills/                      # 共享写作技能
 │       ├── writing-chinese-literary/  # 小说写作核心技能
+│       ├── novel-illustrator-pro/  # 小说章节插画提示词生成技能
 │       └── comfyui-image-generation/   # AI 插画生成技能
 ├── 小说项目A/                       # 独立小说项目（可以有多个）
 │   ├── 正文/                         # 已完成的章节文件
