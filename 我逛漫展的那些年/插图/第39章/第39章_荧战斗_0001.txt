@@ -1,0 +1,26 @@
+# 荧Cosplay战斗插画提示词
+
+## 角色档案
+- **角色名**：荧（空之旅行者）
+- **章节**：第39章 技法二十二：意识连接
+- **核心元素**：金色星星，记忆共享
+
+## 视觉描述
+垂直构图，展现荧的记忆共享战斗姿态。她是一位活泼灵动的金发少女，金色长发如阳光般灿烂，在光芒中闪耀。双眼明亮而充满好奇，神情活泼而专注。她的双手抬起，金色星星从指尖闪烁，如星辰般洒落，释放出温暖而璀璨的记忆光芒。
+
+## 武器细节
+**星银剑**——金色星光凝聚的长剑，剑身刻满星辰纹样，挥动时洒下金色星屑，如同记忆的碎片在空间中飞舞。
+
+## 战斗场景
+记忆共享区，金色星星如雨般洒落，从身体向四周扩散，闪烁着温暖的光芒。星星连接成记忆的网络，传递过去的画面与情感。
+
+## 画面参数
+- 尺寸：960x1920（竖图）
+- 风格：游戏角色立绘风格，华丽星辰特效
+- 画质：极致高清，细腻肌理
+- 光影：伦勃朗光效，暖色侧光，极致明暗对比
+- 质感：胶片颗粒感，超高清肌理刻画，星屑质感
+- 氛围：活泼灵动，温暖璀璨，记忆流淌
+
+## 提示词
+胶片摄影质感,原始自然,记忆共享区,金色星星闪烁,古典神性,复古奇幻融合,强烈朦胧美学,野性与高贵共生,荧,公主切长发,冷冽慵懒,神性野性织,丝绸刺绣,绿树红花,神兽毕方,蜘蛛网,pantyhose,黑人鬼怪环绕,山羊头骨（嵌银线),白玉骨头,伦勃朗光效,白色强侧光,极致明暗对比,高曝 overexposure,胶片颗粒感,超高清肌理刻画,柔光纱袍,发丝动态光泽,荆棘火焰网格阵,血色微光,枯槁蕨类,巫山云雾,中式梦核,低角度拍摄,慢快门虚化,Clairy Laurence,优雅,唯美,繁复华丽的头饰,古风戴着未来感面具,摩羯座女妖,星宿,星座元素,符文,神秘,强悍,画面张力十足,中式怪诞,华丽,3D建模,奇特,独特,高级,艺术,极其精致极强的压迫感,超级大反派,霸气,未来感,极强的威压,霸气的姿势,不削的神情,女妖是黑夜中唯一的光,东方韵味,极简的背景,动态,手持大法杖,施法,(solo),ZA_Life is like a dream,ZA_Life is like a dream  A digital CGI image of an Asian woman with long,dark hair adorned with white flowers,wearing a flowing,light grey traditional Chinese dress. She sits against a misty,rocky background,playing a green,intricately carved guqin,a traditional Chinese zither. The serene,ethereal atmosphere highlights her delicate features and the instrument's elegant design.,垂直构图,游戏角色立绘风格,金色星星,星屑洒落,金发飘动,活泼眼神,记忆共享,金色光芒,星辰坠落,战斗姿态,记忆碎片,Asian woman,Chinese,长直发,金色假发,星辰特效,超写实,极致细节

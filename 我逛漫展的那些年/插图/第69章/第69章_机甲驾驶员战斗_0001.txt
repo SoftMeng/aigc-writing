@@ -1,0 +1,40 @@
+# 《我逛漫展的那些年》第69章 - 机甲驾驶员战斗插画提示词
+
+## 角色信息
+- **角色名称**: 机甲驾驶员Cosplayer
+- **角色描述**: 利落银灰色短波波头，戴着特殊隐形眼镜（浅蓝色同心圆虹膜，仿生人眼睛）。身着黑色连体衣，半透明硬质护甲（彩虹色散效果）。装备：单向透视头盔模型，半机械手套（小液压装置），多功能腰带（激光切割器、grappling钩、便携计算机终端）。战斗姿态：标准军事姿态，背部挺直，眼神专注冷静。
+
+## 竖图战斗插画提示词
+
+### 中文提示词
+她以标准的军事姿态矗立在战场之上，如同一台精密的人形战争机器，每一个细节都经过精确的计算。利落的银灰色短波波头显示出她的干练与效率，刘海整齐地剪齐在眉毛上方，展现出锐利的眼神。她的眼睛戴着特殊的隐形眼镜，整个眼球呈现出浅蓝色，虹膜的纹路被修饰成同心圆的形状，看起来如同真正的仿生人眼睛，冰冷而精确，没有人类情感的波动。
+
+她穿着紧身的黑色连体衣，贴身的剪裁展现出她经过严格训练的身体曲线。外面套着半透明的硬质护甲，材质是某种特殊的高科技塑料，在战斗光芒的照射下呈现出彩虹般的色散效果——从紫色到蓝色到绿色再到黄色，如同蝴蝶的翅膀在光线下闪烁。护甲的边缘切割锋利，每一处棱角都经过人体工程学的优化，既能提供最大程度的防护，又不会影响她的灵活性。
+
+她的装备令人眼花缭乱。头顶戴着单向透视头盔的模型，面罩是某种特殊材料，从外面看是反射性的镜面，从里面却可以清晰地看到外面的世界。手指戴着半机械的手套，手套的关节处安装了小型的液压装置，当她握紧拳头或做出抓握动作时，液压装置会发出机械运转的细微声响，给人一种力量与精确并重的感觉。腰间挂着一条多功能腰带，上面挂满了各种假想的工具和设备——激光切割器能瞬间切割任何物质，grappling钩能让她在战场上自由移动，便携式计算机终端能实时分析战场数据并提供战术建议。
+
+她的站姿是标准的军事姿态——背部挺直如松，双脚分开与肩同宽，双手自然下垂却保持着随时行动的警戒状态。眼神专注而冷静，瞳孔中倒映着战场的每一个细节，没有任何情感的波动，只有精确的计算和冷静的判断。她的呼吸均匀而深沉，与装甲的律动同步，整个人与装备完美融合，成为战场上一台精确的杀戮机器。
+
+她的表情是专业军人的写照——眉头微皱，嘴唇紧抿，面部线条如同刀削般锋利。额头上没有汗珠，只有冷静的计算；眼中没有恐惧，只有对任务的专注。半透明护甲在阳光下闪烁的彩虹光芒与她冷静的眼神形成鲜明对比，机械与人性在这具身体上达成了完美的平衡。
+
+背景中激光武器的光芒闪烁，计算机终端的界面在她周围投射出全息的数据面板，为她增添了未来战士的科技感。她的机械手套在光线下反射出金属的光芒，多功能腰带上的工具闪烁着警示性的灯光，整个画面充满了高科技战争的气息。
+
+### 英文提示词
+She stands on the battlefield in standard military posture, like a precisely calculated humanoid war machine, every detail经过精确计算. Her neat silver-gray short bob haircut shows efficiency and capability, bangs trimmed neatly above eyebrows, revealing sharp gaze. Her eyes wear special contact lenses, entire eyeball showing light blue, iris texture modified into concentric circles, looking like true cybernetic eyes - cold and precise, without human emotional fluctuations.
+
+She wears tight black catsuit, close-cut tailoring revealing strictly trained body curves. Outside she wears semi-transparent hard armor, made of some special high-tech plastic, displaying rainbow-like dispersion effects under battle light - from purple to blue to green to yellow, like butterfly wings flashing in sunlight. Armor edges cut sharply, every corner optimized through ergonomics, providing maximum protection without hindering flexibility.
+
+Her equipment is dazzling. Head wears one-way vision helmet model, visor made of special material, reflective mirror surface from outside, yet clearly seeing outside from inside. Fingers wear semi-mechanical gloves, small hydraulic devices installed at joints, emitting mechanical operation sounds when she clenches fists or makes gripping motions, giving sense of power and precision combined.
+
+Her stance is standard military posture - back straight as pine tree, feet shoulder-width apart, hands naturally down yet maintaining alert stance for immediate action. Her expression is professional soldier's portrait - brow slightly furrowed, lips pressed, facial lines sharp as cut by knife. Forehead has no sweat beads, only cool calculation; eyes have no fear, only task-focused concentration.
+
+### 负向提示词
+低质量,模糊,扭曲,变形,比例失调,断肢,残缺,损坏的装备,暗淡的色彩,过曝,欠曝,噪点多,画质差,细节丢失,人物变形,表情僵硬,眼神空洞,构图不当,水平构图,横图,人物太小,装备不清晰,护甲破损,手套缺失,工具丢失,头盔模糊
+
+## 图片参数
+- **宽度**: 576
+- **高度**: 1024
+- **提示词权重**: 1.2
+- **采样步数**: 30
+- **CFG Scale**: 7
+- **种子**: 随机

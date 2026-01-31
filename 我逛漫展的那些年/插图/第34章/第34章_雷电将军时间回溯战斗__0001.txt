@@ -1,0 +1,4 @@
+提示词: /Users/xiangyuanmeng/Documents/TowerProject2/aigc-writing/我逛漫展的那些年/插图/第34章/第34章_雷电将军时间回溯战斗_0001.txt
+种子: 794736687
+尺寸: 960x1920
+步数: 9

@@ -1,0 +1,22 @@
+# 薇恩 Coser - 镰刀战斗姿态
+
+## 构图策略
+螺旋构图，薇恩的身体呈S形曲线站立，镰刀刀身呈弧形环绕身体。背景采用放射状模糊，营造出"死亡之舞"的诡异美感。
+
+## 视觉档案
+- **面部**：苍白如雪的面容，五官精致立体。银色长发垂至腰际，衬托出近乎透明的肌肤。神情冷艳而优雅，带着一丝嗜血的微笑。眼神深邃，仿佛能吞噬灵魂。
+- **发型**：银色长假发，柔顺光滑，如瀑布般垂落，在身后形成美丽的弧线。几缕发丝飘散在脸庞，增添几分凌乱美感。
+- **服饰**：黑色紧身衣，外面罩着灰色外套（红色花纹若隐若现），黑色长纱裙（多层薄纱，层层叠叠，拖地盖住脚）。
+- **武器**：镰刀道具——刀身用泡沫板涂成黑色，狭长弯曲如月牙。刀柄用PVC管制作，外面缠着黑色布条。整把镰刀散发着死亡的气息。
+
+## 环境光效
+暗黑色调为主，仅有少量红色光源点缀（象征危险与血腥）。主光源为血红般的点光源，从刀身反射出来。背景为深不见底的黑暗，只有轮廓光勾勒出身体曲线。
+
+## 战斗姿态描述
+薇恩双手握住镰刀刀柄，镰刀刀身呈优美的弧线横亘在身侧。她的身体微微后仰，形成S形曲线，展现出惊人的柔韧性与力量。银发在身后如瀑布般散开，与黑色长裙形成鲜明对比。她的眼神冰冷而嗜血，嘴角带着一抹嗜血的微笑——那是一种对死亡的迷恋与享受。镰刀的寒光映照在她苍白的面庞上，增添几分诡异的美感。
+
+## 氛围意境
+死亡、优雅、致命诱惑。仿佛是冥界的使者，收割生命的死神，却美得令人心颤。
+
+## 完整提示词
+Chinese woman cosplayer as Vayne from Tales series, platinum silver long hair flowing to waist, smooth and silky like waterfall, strands framing pale almost translucent face. Cold and elegant expression with hint of bloodthirsty smile, deep eyes that could devour souls, pale complexion accentuated by dark surroundings. Black form-fitting bodysuit, grey jacket with subtle red patterns visible underneath, black long tulle skirt multiple layers dragging on floor covering feet. Holding scythe with both hands, blade curved like crescent moon, blade made of black painted foam board, handle PVC pipe wrapped with black cloth, weapon radiating deathly aura. Spiral composition, subject in S-curve stance, scythe forming arc around body. Radial blur background creating "dance of death" aesthetic. Dark-toned imagery with red accent lighting, blood-red point light reflecting from blade, deep black background with only rim light outlining silhouette. Icy and嗜血 expression, deadly elegance. Vertical portrait format 960x1920, 9 steps, ultra-detailed illustration, masterpiece, best quality.

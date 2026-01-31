@@ -1,0 +1,38 @@
+# 《我逛漫展的那些年》第69章 - 红色旗袍刺客战斗插画提示词
+
+## 角色信息
+- **角色名称**: 红色旗袍刺客Cosplayer
+- **角色描述**: 长发盘成复杂发髻，插着两根仿古银簪，猫眼妆容（眼尾红色眼影），深红渐变嘴唇。身着高开叉红色旗袍，龙纹刺绣暗红色光泽，大腿内侧有凤凰纹身贴纸，脚踝系着银铃。武器：两把短刃（抛光不锈钢刀刃，红丝线刀柄）。战斗姿态：流畅武术动作，从妩媚舞者瞬间变成致命杀手。
+
+## 竖图战斗插画提示词
+
+### 中文提示词
+红，如鲜血般炽热的红色身影在战场上舞动，她是一位将妩媚与致命完美融合的刺客。旗袍的高开叉设计展现出她修长白皙的双腿，红色丝绸紧贴着她玲珑的曲线，每一步移动都带着致命的优雅。她的大腿内侧展翅欲飞的凤凰纹身贴纸随着动作若隐若现，为这份性感增添了一份神秘的野性。
+
+她的长发盘成复杂的发髻，两根仿古银簪在头顶闪烁，几缕发丝垂在颈后，随着她的动作如蛇般扭动。面部妆容精致得如同一幅艺术品——猫眼般妩媚的上挑眼线，眼尾涂抹着红色眼影，勾勒出摄人心魄的弧度。嘴唇是深红的渐变色，嘴角那抹若有若无的笑意让人分不清这是邀请还是陷阱。她的眼神是她的武器，时而是慵懒的猫般魅惑，时而是刺客的凌厉冰冷，只需一个眼神便能让敌人胆寒。
+
+她手中的两把短刃是死亡的艺术品——抛光的不锈钢刀刃如镜子般反射着战场的光芒，红丝线缠绕的刀柄在手中如同血液的延伸。刀刃在她修长的手指间翻转，寒光闪烁，每一次挥动都带着致命的精确。她的身体做出流畅的武术动作，旗袍下摆随风摆动，露出白皙修长的腿部和精美的纹身。脚踝上的银铃随着她的移动发出清脆的声响，这声音既是舞蹈的节拍，也是死亡的丧钟。
+
+她的姿态在妩媚与致命之间无缝切换，上一秒还是风情万种的舞者，下一秒便成为收割生命的刺客。腰肢的扭动、手臂的旋转、腿部的踢踏，每一个动作都经过千锤百炼，既是美的展现，也是高效的杀戮艺术。她的眼神锁定猎物，瞳孔收缩，嘴角那抹笑意加深，露出一丝嗜血的期待。
+
+背景是战斗的混乱与她的优雅形成鲜明对比，飞扬的红色裙角如火焰般燃烧，与她手中的刀光交相辉映，构成一幅既美丽又危险的画面。
+
+### 英文提示词
+Red, blazing like blood, she dances through the battlefield - an assassin who perfectly blends seduction with lethality. Her high-slit red qipao reveals long fair legs, red silk hugging her curves with deadly grace. The phoenix tattoo on her inner thigh flashes mysteriously with each movement.
+
+Her hair is styled in an elaborate bun, two ancient silver hairpins gleaming atop her head, strands swaying like serpents behind her neck. Her makeup is精致的 like artwork - cat-like sultry upturned eye lines, red eyeshadow at corners tracing captivating arcs. Her lips show deep red gradient, that hint of smile unclear if invitation or trap.
+
+Her two short blades are masterpieces of death - polished stainless steel reflecting battlefield light, red silk-wound handles extensions of blood. Blade tips flip between long fingers, cold light flashing, each swing carrying lethal precision. Her body flows through martial arts movements, qipao's hem swaying in wind, revealing fair legs and intricate tattoos.
+
+Her posture seamlessly shifts between seductive dancer and lethal assassin. Waist rotation, arm spins, leg kicks - each movement thousand-times refined, both beauty display and efficient killing art.
+
+### 负向提示词
+低质量,模糊,扭曲,变形,比例失调,断肢,残缺,损坏的武器,暗淡的色彩,过曝,欠曝,噪点多,画质差,细节丢失,人物变形,表情僵硬,眼神空洞,构图不当,水平构图,横图,人物太小,短刃不清晰,妆容花掉,旗袍破损,纹身丢失,银铃缺失
+
+## 图片参数
+- **宽度**: 576
+- **高度**: 1024
+- **提示词权重**: 1.2
+- **采样步数**: 30
+- **CFG Scale**: 7
+- **种子**: 随机

@@ -1,0 +1,27 @@
+# 第34章 2B Coser战斗插画提示词
+
+## 构图策略
+框景构图+对角线张力构图。角色位于画面中心偏下位置，身体呈45度侧立，一手持刀于身侧，一手抬起释放时间能量。背景采用强烈透视构图，时间波纹从刀身向画面四周扩散，形成同心圆的时间乱流。画面边缘采用暗部框架构图，营造出偷窥感和幽闭战斗氛围。
+
+## 视觉档案（亚洲女性Coser扮演2B）
+白色短发有些打结，在时间乱流中微微飘动，发丝质感细腻如丝绸。精致的面容被黑色眼罩半遮，只露出左眼的金色瞳孔，神秘而深邃。身穿黑色紧身战斗服，外罩白色披风式外套短款，下穿黑色裤袜与白色长靴。右手单手握住白色长刀刀柄，长刀刀身向下垂直，刀尖释放白色的时间波纹——波纹如涟漪般向四周扩散，在空气中形成时间的涟漪场。左手抬起，掌心向上，手指微微弯曲，正在释放时间能量。表情冷淡而平静，眼罩下的左眼透露出对时间的洞察与对命运的接受。嘴唇轻抿成一条直线，面无表情却透露出深沉的情感。战斗服的皮革与金属质感在时间光芒中微微反光，营造出赛博格战士的未来感。
+
+## 环境光效
+整体画面采用黑白灰三色为主，混合金色时间碎片光芒。中央聚光效果从角色位置向四周扩散，形成时间波纹的光影层次。侧逆光勾勒出角色的身体轮廓，在发丝和衣料边缘形成白色的光晕。背景采用虚化的战斗废墟效果，远处有被时间回溯影响而正在重组的建筑剪影。空气中漂浮的金色时间碎片如星辰般闪烁，每个碎片都反射着过去的画面。
+
+## 技法表现
+采用赛博朋克写实风格，融合未来科幻美学与古典肖像画元素。发丝采用柔光质感处理，有细腻的光泽变化。战斗服采用皮革、织物与金属的混合质感，表面有细腻的纹理细节。长刀采用白色金属光泽与时间能量效果，刀刃上流动的光芒如液态光。背景时间波纹采用多层半透明同心圆叠加技法，形成深邃的时间空间感。
+
+## 色彩点缀
+主色调：纯黑色、纯白色、银灰色
+辅助色：金色、深灰色
+金属点缀：长刀的银白色光泽、战斗服的金属扣具
+对比色：黑色的深沉与白色的纯净形成强烈对比
+
+## 意境收束
+画面捕捉2B施展时间回溯的静默瞬间——长刀释放的时间波纹如涟漪般向四周扩散，整个世界在时间中轻轻荡漾。她的身影在时间乱流中如雕塑般静止，只有眼中的光芒在闪烁。表情冷淡而深邃，体现"技法十七的核心是选择"的技法领悟。整体画面传达出战斗机器对时间法则的思考与人性觉醒的瞬间。
+
+## ComfyUI提示词（竖图格式）
+(masterpiece, best quality, highly detailed), (vertical aspect ratio 960x1920), Asian woman cosplaying 2B from NieR with short white hair slightly flowing, wearing black form-fitting combat suit with white short cape and black thigh-high boots, holding long white katana with single hand, katana blade emanating expanding white time ripples like concentric涟漪, ripples spreading outward in slow concentric circles, framing composition with dark edges creating voyeuristic atmosphere, character positioned slightly below center, 45-degree side stance, calm expression with mysterious depth, one visible golden eye under black eye patch, thin lips pressed into line, leather and metal combat suit texture, flowing cape with fabric dynamics, dramatic side-back lighting creating rim light, black white and gray color palette with gold accents, glowing katana with temporal energy particles, floating gold time fragments like stars reflecting past memories, cyberpunk realistic style, futuristic sci-fi aesthetic with classical portrait elements, metallic光泽 on katana blade and gear, soft focus on hair with light reflections, cinematic spotlight effect from character, hyper-realistic detail on expression and suit texture, sense of temporal stillness and deep choice, 8K resolution, ultra-sharp image quality, story-telling moment of time manipulation in contemplative silence
+
+Negative prompt: low quality, worst quality, blurry, deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limbs, ugly, blurry, low contrast, dull colors, cartoon, anime style not matching, UI elements, game panels, text overlays, warm colors, bright colors, emotional expression, movement blur

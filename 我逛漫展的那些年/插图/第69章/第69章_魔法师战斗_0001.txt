@@ -1,0 +1,38 @@
+# 《我逛漫展的那些年》第69章 - 魔法师战斗插画提示词
+
+## 角色信息
+- **角色名称**: 魔法师Cosplayer
+- **角色描述**: 天然黑色长发，发梢渐变紫色，冷白皮肤妆。身着深紫色天鹅绒长袍，内衬银色丝绸，宽大袖口装饰金色符文刺绣。装备：银色月冠，额头红色朱砂印记，法杖（带LED变色水晶球），多个银色宝石戒指。战斗姿态：缓慢优雅的神秘仪式手势。
+
+## 竖图战斗插画提示词
+
+### 中文提示词
+她矗立于战场的魔法光环之中，神秘而不可侵犯，如同从古老传说中走出的女巫皇。天然的黑色长发如瀑布般披散在肩后，发梢染成了渐变的紫色，从根部到末端颜色由深黑过渡到神秘的紫罗兰，与她的深紫色天鹅绒长袍遥相呼应。长袍的外层是华贵的天鹅绒，内衬是流动的银色丝绸，每一处细节都透露着魔法的气息。宽大的袖口装饰着金色的符文刺绣，古老的魔法文字在灯光下闪烁微光，仿佛随时会活过来飞向天空。
+
+她的头上戴着银色的月冠，月牙的形状完美地贴合在她的发间，冠身闪烁着冰冷的银光。额头点着一枚红色的朱砂印记，如同第三只眼睛，为她增添了神圣而神秘的气质。她的妆容强调着这种神秘感——眼影是深紫色的渐变，从眼角向眉梢逐渐加深，嘴唇是暗紫红色，皮肤涂成偏白的冷色调，整个人散发着一种不食人间烟火的、超凡脱俗的气质。
+
+她手中的法杖是魔法的具象化——一米八长的木质杖身雕刻着古老的纹路，杖头镶嵌着一颗大尺寸的水晶球。水晶球内部安装了LED灯，会缓慢地变换颜色，从深蓝到紫色再到红色，循环不息，如同蕴含着整个宇宙的能量。水晶球散发出柔和而神秘的光芒，将她的面容映照得如梦似幻。她的手指上戴着多个银色的戒指，每个戒指上都镶嵌着不同颜色的宝石——红宝石如凝固的血液，蓝宝石如深邃的海洋，绿宝石如春天的森林。当她挥动法杖时，戒指会随着光线的折射发出细小的彩虹，为她的魔法增添绚丽的色彩。
+
+她的动作缓慢而优雅，每一个手势都像是在进行某种神秘的仪式。手腕的转动、手臂的抬起、手指的弯曲，都带着舞蹈般的韵律感，仿佛在空气中描绘着无形的魔法阵。她的嘴唇微微颤动，念诵着古老的咒语，虽然听不到声音，但能感受到空气中魔法的震动。眼神是空洞而深邃的，仿佛穿越了现实与魔法的边界，看到了凡人无法触及的真相。
+
+她的表情是一种超脱尘世的平静，眉头舒展，眼神迷离，嘴角带着一丝若有若无的微笑。这不是人类的情感，而是与天地万物沟通、与宇宙共鸣的神圣表情。周围的魔法光环缓缓旋转，金色的符文从她的长袍上飘起，在空中组成神秘的图案。法杖的水晶球发出越来越亮的光芒，从深蓝渐变到紫罗兰再到血红，整个战场都被这神秘的魔法之光笼罩。
+
+### 英文提示词
+She stands within magical aura, mysterious and unapproachable, like a witch queen stepped from ancient legend. Natural black hair cascades over shoulders, tips dyed gradient purple from deep black to mysterious violet, echoing her deep purple velvet robe. The outer layer is luxurious velvet, inner lining flowing silver silk, every detail exuding magical atmosphere.
+
+Her head bears a silver moon crown, crescent shape perfectly fitting her hair, crown body gleaming with cold silver light. A red cinnabar mark on her forehead, like a third eye, adding sacred mysterious temperament. Her makeup emphasizes this mystique - eye shadow deep purple gradient, deepening from corners to brow tips, lips dark purple-red, skin painted in偏白的 cool tone, radiating otherworldly transcendent aura.
+
+Her staff is magic's materialization - 1.8-meter wooden shaft carved with ancient patterns, topped with a large crystal ball. The crystal ball houses LED lights slowly changing colors from deep blue to purple to red, like containing entire universe's energy. Multiple silver rings on her fingers, each set with different colored gems - ruby like congealed blood, sapphire like deep ocean, emerald like spring forest.
+
+Her movements are slow and elegant, each gesture like performing mysterious ritual. Wrist rotations, arm lifts, finger bends all carry dancer's rhythm, as if painting invisible magic arrays in air. Her expression is transcendent worldly calm, brow relaxed, eyes misty, lips bearing hint of smile.
+
+### 负向提示词
+低质量,模糊,扭曲,变形,比例失调,断肢,残缺,损坏的法杖,暗淡的色彩,过曝,欠曝,噪点多,画质差,细节丢失,人物变形,表情僵硬,眼神空洞,构图不当,水平构图,横图,人物太小,法杖不清晰,水晶球缺失,符文不明显,戒指丢失,月冠破损
+
+## 图片参数
+- **宽度**: 576
+- **高度**: 1024
+- **提示词权重**: 1.2
+- **采样步数**: 30
+- **CFG Scale**: 7
+- **种子**: 随机

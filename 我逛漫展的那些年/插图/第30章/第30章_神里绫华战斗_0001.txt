@@ -1,0 +1,4 @@
+提示词: vertical portrait, elegant female swordswoman performing ice dance slash, Kamisato Ayaka from Genshin Impact, graceful yet lethal combat pose,单手握太刀斜举于身侧，另一只手在胸前结剑指，刀身缠绕晶莹冰晶与飞舞雪花,冰冷而专注的眼神，眼眸如深潭般平静，嘴唇轻抿透露决心,蓝白色长发如丝绸般在身后流淌，发梢结冰晶闪烁微光,穿蓝色渐变和服配白色披风，外罩淡蓝色透明薄纱,裙摆如花瓣般层层叠叠在冰风中飘舞,双脚并拢姿态优雅，身体微微侧倾展现sword dance 姿势,寒气从刀刃蔓延形成巨型冰莲花绽放,地面结冰反射战斗光辉,背景是飘雪的稻妻冬夜，雪花与冰晶飞舞成暴风雪,冷色调为主蓝色与白色交织,侧逆光勾勒冰晶轮廓,发丝雪花清晰可见,高清晰度艺术质感,极致细节刻画和服纹理与冰晶结构,优雅与战斗张力并存,vertical image 960x1920,9 steps
+种子: 793212139
+尺寸: 960x1920
+步数: 9

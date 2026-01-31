@@ -1,0 +1,27 @@
+# 第34章 胡桃Coser战斗插画提示词
+
+## 构图策略
+高角度俯视构图+对角线动态构图。角色位于画面上方，呈跳跃战斗姿态，长枪沿对角线向下刺出，枪尖释放红色的时间倒流光芒。背景采用强烈透视构图，从角色位置向下汇聚，形成视觉引导线聚焦于枪尖与敌人的交汇点。画面下方融入时间碎片如花瓣般飞舞的效果，营造出浪漫而激烈的战斗氛围。
+
+## 视觉档案（亚洲女性Coser扮演胡桃）
+褐色假发有些炸毛，在跳跃与乱流中如时间火焰般向上飞舞，发丝带有微微的红色挑染。精致而活泼的面容带有战斗的兴奋与快乐，眉毛上扬，眼睛睁大闪烁着调皮的光芒，透露出对战斗的热爱与对时间法则的好奇。身穿红色露肩战斗服，裙摆很短露出大腿上的黑色腿袜，腰间系着中国结风格的腰带增添东方韵味。双手握住红色长枪枪身，长枪在身侧呈45度角斜举，枪尖朝下。枪尖正在释放红色的时间倒流光芒——光芒如火焰般向下流动，所过之处时间如花瓣般倒飞。表情开朗而兴奋，嘴唇微张露出战斗的喜悦笑容，脸颊因兴奋而泛红，高高扎起的双马尾在身后飞舞如火焰。肌肤在红色光芒下微微发光，有细腻的光泽变化。
+
+## 环境光效
+整体画面采用暖色调红色为主，混合金色时间碎片光芒。顶光从上方垂直照射，在角色周围形成神圣的光环效果。背景采用虚化的战斗场地效果，地面有被时间回溯影响而正在恢复的敌人剪影。枪尖释放的红色光芒如火焰瀑布般向下倾泻，在空气中形成时间倒流的光带。空气中漂浮的时间碎片如红色的花瓣与金色的星屑交织飞舞，每个碎片都折射出过去战斗的画面。光效中心是枪尖与敌人的交汇点，那里正在发生时间的逆转。
+
+## 技法表现
+采用写实游戏风格，融合东方幻想美学与动作捕捉元素。发丝采用火焰动态效果处理，发梢有燃烧般的动态轨迹。战斗服采用红色布料与金属装饰的混合质感，裙摆有自然的褶皱流动。长枪采用红色金属光泽与火焰能量效果，枪尖的光芒如液态火焰。背景时间花瓣采用粒子渲染技法，每个花瓣都有独立的旋转与飘落轨迹。
+
+## 色彩点缀
+主色调：火焰红色、纯白色
+辅助色：金色、深褐色
+金属点缀：长枪的铜金色光泽、腰带的金属扣具
+对比色：红色的热烈与白色的纯净形成活力对比
+
+## 意境收束
+画面捕捉胡桃施展时间回溯的欢乐瞬间——长枪刺出的瞬间，红色的时间光芒如火焰瀑布般倾泻，时间的花瓣在空中倒飞。她的身影在时间乱流中如火焰般舞动，笑容灿烂而充满活力。表情中体现出"改变已经发生的事"的技法应用——让过去的时间如花瓣般倒飞，重新选择战斗的结果。整体画面传达出对死亡的豁达与对时间的掌控，体现胡桃作为往生堂主对生死法则的独特理解。
+
+## ComfyUI提示词（竖图格式）
+(masterpiece, best quality, highly detailed), (vertical aspect ratio 960x1920), Asian woman cosplaying Hu Tao with brown hair slightly messy and flowing like flames, wearing red off-shoulder combat dress with short skirt exposing black thigh-high socks, holding red spear with both hands in jumping attack stance, spear tip emanating flowing red time-reverse light like fire waterfall, light cascading downward with time petals flying backward in reverse, high-angle shot looking down at character, character positioned at top in dynamic jumping pose, diagonal spear composition, cheerful excited expression with raised eyebrows, sparkling eyes full of battle joy, playful smile showing teeth, twin ponytails flowing behind like flames, skin glowing warmly under red light, red fabric and metal combat dress texture, natural folds in flowing skirt, dramatic top lighting creating holy halo effect, red and gold color palette, glowing spear with flame-like energy particles, floating time petals like red flower petals mixed with golden stardust, hyper-realistic game style, oriental fantasy aesthetic with action capture elements, metallic铜 gold光泽 on spear and accessories, soft focus on flowing hair with light reflections, cinematic lighting with perspective convergence at spear tip, hyper-realistic detail on expression and battle dynamics, sense of temporal reversal and joyful combat, 8K resolution, ultra-sharp image quality, story-telling moment of time manipulation with playful energy
+
+Negative prompt: low quality, worst quality, blurry, deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limbs, ugly, blurry, low contrast, dull colors, cartoon, anime style not matching, UI elements, game panels, text overlays, cold colors, calm expression, static pose, dark atmosphere

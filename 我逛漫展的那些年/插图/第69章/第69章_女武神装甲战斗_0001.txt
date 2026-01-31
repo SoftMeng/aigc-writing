@@ -1,0 +1,38 @@
+# 《我逛漫展的那些年》第69章 - 女武神装甲战斗插画提示词
+
+## 角色信息
+- **角色名称**: 女武神装甲Cosplayer
+- **角色描述**: 身高175cm，银白色长发编成复杂发辫垂至腰际，身着女武神装甲，胸甲上有闪电纹路，肩部翼状护甲，双臂覆着镂空银色臂铠，握着雷霆之枪（枪尖有LED蓝白色电光），腰侧挂着能量护盾（环形指示灯从绿渐变为橙）。战斗姿态：右脚前跨半步，身体微前倾，眼神锐利如鹰。
+
+## 竖图战斗插画提示词
+
+### 中文提示词
+银白色长发的战斗女神矗立于战场中央，她1.75米的高挑身材散发出不可侵犯的威严。银白色的长发编织成复杂的发辫垂至腰际，几缕碎发在战斗气流中飞扬，衬托出精致立体的五官轮廓。她的眼睛燃烧着战斗的火焰，瞳孔中映射出雷霆的光芒，眼神锐利如鹰，仿佛能洞穿一切虚妄。
+
+她身着全套女武神装甲，每一块甲片都散发着冷冽的金属光泽。胸甲上的闪电纹路在战斗光芒中跃动，肩部的翼状护甲微微张开，仿佛随时会带着她翱翔天际。双臂覆着镂空的银色臂铠，半透明的金属指套在阳光下闪耀，手指紧握着那把几乎与她等高的雷霆之枪。枪尖的LED灯模拟出蓝白色的电光，电弧在枪尖跳跃，发出噼啪的雷鸣声，能量波动辐射四周，照亮了整个战场。
+
+她的站姿完美复刻了战斗女神的英姿，右脚前跨半步，身体微微前倾，重心稳定而不失攻击性。腰侧的能量护盾发出低沉的嗡鸣声，护盾表面的环形指示灯从绿色渐变为橙色，光芒随着她的战斗节奏律动。装甲的关节处闪烁着能量流动的光点，每一个动作都伴随着金属与能量交织的轻响。
+
+她的表情是坚定与专注的融合，眉头微蹙，嘴唇紧抿却带着一丝冷酷的笑意。脸颊旁的碎发被战斗气流吹起，在光影中画出优美的弧线。她的眼神中燃烧着不屈的战斗意志，仿佛面对千军万马也毫无惧色。额头上微微渗出的汗珠在金属装甲的冷冽光泽中闪烁，增添了一份真实的人性温度。
+
+战场背景中雷霆闪电交错，能量波动形成瑰丽的光幕，与她的雷霆之枪产生共鸣。电光在她周围编织成电网，将她衬托得如同真正的雷霆女神降世。
+
+### 英文提示词
+A tall 175cm warrior goddess with silver-white hair braided in complex braids reaching her waist, her delicate facial features framed by strands of flying hair in the battle wind. Her eyes burn with fierce battle spirit, pupils reflecting the thunder's light, sharp as an eagle's gaze.
+
+She wears complete Valkyrie armor, each armor piece radiating cold metallic luster. Lightning patterns on the chest armor pulse with battle light, wing-like shoulder armor slightly spread as if ready to soar into the skies. Her arms are covered with hollow silver gauntlets, semi-transparent metallic finger guards gleaming in the sunlight, her fingers gripping the thunder spear nearly as tall as herself. The spear tip's LED lights simulate blue-white electric arcs, thunder crackling with energy waves radiating outward.
+
+Her stance perfectly replicates the battle goddess's heroic posture - right foot half-step forward, body slightly forward, stable center of gravity yet maintaining offensive readiness. The energy shield at her waist emits low hums, ring indicator lights shifting from green to orange, pulsing with her battle rhythm.
+
+Her expression fuses determination and focus, brow slightly furrowed, lips pressed yet with a hint of cold smile. Sweat beads glisten on her forehead amid the armor's cold luster, adding human warmth. Lightning and thunder intertwine in the battlefield background, energy waves creating magnificent light curtains resonating with her thunder spear.
+
+### 负向提示词
+低质量,模糊,扭曲,变形,比例失调,断肢,残缺,损坏的装甲,破碎的武器,暗淡的色彩,过曝,欠曝,噪点多,画质差,细节丢失,人物变形,武器破损,光影混乱,背景模糊,表情僵硬,眼神空洞,构图不当,水平构图,横图,人物太小,武器不清晰,装甲细节缺失
+
+## 图片参数
+- **宽度**: 576
+- **高度**: 1024
+- **提示词权重**: 1.2
+- **采样步数**: 30
+- **CFG Scale**: 7
+- **种子**: 随机

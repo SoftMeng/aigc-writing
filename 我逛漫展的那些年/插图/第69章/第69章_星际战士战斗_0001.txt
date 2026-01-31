@@ -1,0 +1,38 @@
+# 《我逛漫展的那些年》第69章 - 星际战士战斗插画提示词
+
+## 角色信息
+- **角色名称**: 星际战士Cosplayer
+- **角色描述**: 银白色短发向后梳成利落背头，戴着特殊美瞳（爬行动物状竖立瞳孔）。身着深蓝色紧身作战服，黑色碳纤维护甲，可活动机械外骨骼。装备：小型喷气背包模型（白色冷烟雾LED效果），脉冲步枪（蓝色光束）。战斗姿态：双脚分开与肩同宽，身体微微下沉，准备战术翻滚或跳跃。
+
+## 竖图战斗插画提示词
+
+### 中文提示词
+她站在战场前沿，如同一座由金属与科技铸成的堡垒，随时准备发起致命的冲锋。银白色的短发向后梳成利落的背头，饱满的额头和锐利的下颌线展现出坚毅的轮廓。最引人注目的是她的眼睛——戴着的特殊美瞳让瞳孔呈现出爬行动物般的竖立形状，在战斗光芒中闪烁着异色的冷酷光芒，仿佛能洞穿敌人的每一个动作。
+
+她的紧身作战服是深邃的蓝色，如同无垠的星际虚空，胸口和四肢的关键部位覆盖着黑色碳纤维护甲，轻盈而坚固。肩部、肘部和膝关节都安装了可活动的机械外骨骼，每一处关节都闪烁着金属的光泽，随着她的动作发出机械运转的低鸣。黑色的碳纤维纹理在阳光下呈现出独特的六边形图案，既有科技的冰冷美感，又具备实战中的防护性能。
+
+背上的小型喷气背包是她的标志性装备，排气口安装了LED灯，间歇性地喷射白色的冷烟雾，模拟引擎启动的效果。烟雾在她周围形成朦胧的光晕，为她增添了未来战士的神秘感。她的武器是一把脉冲步枪，枪身布满了复杂的刻度、指示灯和读数面板，当她扣动扳机时，枪口会发出蓝色的光束，在黑暗中划出致命的光线。
+
+她的站姿是标准战术姿态——双脚分开与肩同宽，身体微微下沉，重心稳定而灵活，随时准备做出战术翻滚或跳跃。双手稳定地握持脉冲步枪，手指放在扳机上，目光通过瞄准镜锁定前方。她的表情是冷静与专注的完美结合，眉头微皱，嘴唇紧抿成一条直线，整个人散发出一种经过千锤百炼的军人气质。
+
+机械外骨骼的关节处闪烁着能量流动的光点，每一次微小的动作都伴随着机械运转的细微声响。她的呼吸与装甲的律动同步，整个人与装备融为一体，成为战场上一台精确的杀戮机器。背景中蓝色光束交错，喷气背包的冷烟雾与战场的硝烟融合，将她衬托得如同来自未来的星际战士。
+
+### 英文提示词
+She stands at the battlefield's edge, a fortress forged from metal and technology, ready for lethal charge. Silver-white short hair slicked back in a neat crew cut, forehead and sharp jawline revealing firm resolve. Most striking are her eyes - special contact lenses giving pupils a reptilian vertical shape, flashing异色 cold light in battle glow, as if able to see through every enemy movement.
+
+Her tight combat suit is deep blue, like boundless stellar void, black carbon fiber armor covering key areas of chest and limbs, light yet tough. Shoulders, elbows, and knees all equipped with movable mechanical exoskeletons, each joint gleaming with metallic luster, emitting low mechanical hums with her movements.
+
+The small jetpack on her back is her signature equipment, exhaust ports equipped with LED lights intermittently喷射 white cold smoke, simulating engine startup effects. Smoke forms hazy halos around her, adding futuristic warrior mystique. Her weapon is a pulse rifle, its body covered with complex calibrations, indicator lights and readout panels, blue beams shooting from muzzle when she pulls trigger.
+
+Her stance is standard tactical posture - feet shoulder-width apart, body slightly lowered, stable and flexible center of gravity, ready for tactical rolls or jumps. Hands steadily grip the pulse rifle, finger on trigger, gaze locked forward through sight. Her expression fuses calm and focus, brow slightly furrowed, lips pressed in a thin line, radiating veteran military temperament.
+
+### 负向提示词
+低质量,模糊,扭曲,变形,比例失调,断肢,残缺,损坏的装备,暗淡的色彩,过曝,欠曝,噪点多,画质差,细节丢失,人物变形,表情僵硬,眼神空洞,构图不当,水平构图,横图,人物太小,武器不清晰,外骨骼破损,美瞳效果丢失,喷气背包缺失
+
+## 图片参数
+- **宽度**: 576
+- **高度**: 1024
+- **提示词权重**: 1.2
+- **采样步数**: 30
+- **CFG Scale**: 7
+- **种子**: 随机

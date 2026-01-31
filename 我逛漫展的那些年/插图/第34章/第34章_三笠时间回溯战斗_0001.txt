@@ -1,0 +1,27 @@
+# 第34章 三笠Coser战斗插画提示词
+
+## 构图策略
+高动态对角线构图+荷兰式倾斜构图。角色呈战斗姿态，身体微微倾斜，双刀交叉呈X形斩击姿势。时间碎片如暴风雨般环绕四周，背景采用倾斜角度营造混乱与速度感。构图强调瞬间爆发的战斗张力，双刀挥舞的轨迹形成对角线动态引导。
+
+## 视觉档案（亚洲女性Coser扮演三笠）
+黑色短假发有些炸毛，在高速战斗与时间乱流中凌乱飞舞，发丝如黑色闪电般向四周飘散。精致而坚毅的面容带有战斗的潮红，眉头紧锁形成"川"字纹，眼神锐利如鹰，透露出对敌人的无情与对生存的渴望。身穿棕色立体机动装置战斗服，外罩白色披风式外套，腰间系着皮带悬挂刀匣。双刀交叉于胸前，双手紧握刀柄做出斩击姿态。双刀正在释放银色的时间碎片光芒——光芒如利刃般向四周飞散，在空中形成银色的时间碎片风暴。表情冷酷而专注，嘴唇紧抿，牙关轻咬，战斗的汗水顺着脸颊滑落，在时间光芒中闪烁。手臂肌肉紧绷，青筋微微凸起，体现高速战斗的力量感。
+
+## 环境光效
+整体画面采用银灰色调为主，混合金色时间碎片光芒。侧光从左上方照射，在角色半边脸上形成明暗对比强烈的伦勃朗光效。背景采用动态模糊效果，模拟高速战斗的残影。双刀释放的银色光芒如星屑般向四周飞溅，每个碎片都折射出不同的光彩。空气中弥漫着战斗的烟尘与时间乱流的光粒，形成暴风雨般的视觉效果。远处有被斩击的时间回溯残影——画面正在倒流，敌人正在恢复。
+
+## 技法表现
+采用写实动作捕捉风格，融合写实战争美学与科幻元素。发丝采用高速动态模糊处理，每根发丝都有速度感的轨迹。双刀采用金属光泽与刀光残影效果，刀刃挥舞时留下银色的光带。战斗服装采用皮革与金属扣具的写实质感，立体机动装置的机械结构清晰可辨。背景时间碎片采用粒子系统渲染，每个碎片都有独立的光影变化。
+
+## 色彩点缀
+主色调：银灰色、黑色、纯白色
+辅助色：金色、血红色（战斗痕迹）
+金属点缀：双刀的银色光泽、装置的金属扣具
+对比色：银色的冷冽与金色的温暖形成视觉冲击
+
+## 意境收束
+画面捕捉三笠在时间回溯中高速战斗的终极瞬间——双刀挥舞如黑色闪电，银色的时间碎片如暴风雨般环绕。她的身影在时间乱流中若隐若现，每一次斩击都在时间中留下不可磨灭的痕迹。表情冷酷而坚定，体现"重新战斗"的技法核心。整体画面传达出生存者对命运的抗争与时间法则的掌控。
+
+## ComfyUI提示词（竖图格式）
+(masterpiece, best quality, highly detailed), (vertical aspect ratio 960x1920), Asian woman cosplaying Mikasa with short black hair messy and flowing in battle wind, wearing brown 3D maneuver gear combat suit with white cape, holding two swords in crossed X-shaped attack stance, silver time fragment light emanating from blades like shards of broken time, fragments scattering in all directions like silver storm, high dynamic diagonal composition with Dutch angle tilt, character in intense battle pose at center, determined fierce expression with furrowed brows, sharp eagle-like eyes, teeth gritted in concentration, sweat droplets on face glowing in time light, muscles tense with battle strain, flowing hair with motion blur effects, leather and metal 3D gear texture, dramatic side lighting (Rembrandt lighting), silver and black color palette, glowing swords with blade trail effects, floating time fragments like silver storm, hyper-realistic action capture style, war aesthetic with sci-fi elements, metallic光泽 on blades and gear, cinematic lighting with motion blur background, extreme detail on facial expression and battle intensity, sense of temporal chaos and combat power, 8K resolution, ultra-sharp image quality, story-telling moment of time manipulation in high-speed battle
+
+Negative prompt: low quality, worst quality, blurry, deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limbs, ugly, blurry, low contrast, dull colors, cartoon, anime style not matching, UI elements, game panels, text overlays, static pose, calm expression

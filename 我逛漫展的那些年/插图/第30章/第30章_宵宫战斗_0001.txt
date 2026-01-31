@@ -1,0 +1,4 @@
+提示词: vertical portrait, Chinese female archer in fierce battle stance, Yoimiya from Genshin Impact, dynamic combat action,单手高举红色长弓，弓身燃烧着金色火焰，弓弦拉满如满月，arrow already nocked with flaming tip,战斗表情兴奋而专注，眼睛因战意而睁大，瞳孔中倒映火焰，嘴角上扬露出自信笑容,红色双马尾发丝在热浪中飞扬，发梢带着火星点点,穿着red traditional festival kimono with golden fireworks patterns,下摆被战斗气流掀起,露出腿部,脚尖点地呈芭蕾舞般轻盈站姿，身体重心压低保持平衡,背后绽放巨型烟花特效形成战斗光环,夜空被焰火照亮如白昼,地面硝烟与火星交织,夏季祭典氛围与战斗融合,暖色调为主火焰特效闪耀,冷暖对比光影,侧逆光勾勒人物轮廓,发丝光晕效果,高清晰度摄影质感,细腻刻画衣物纹理与火焰粒子,动作张力十足,动态感强烈,vertical image 960x1920,9 steps
+种子: 793134077
+尺寸: 960x1920
+步数: 9

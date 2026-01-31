@@ -1,0 +1,22 @@
+# 2B Coser - 白之契约大剑战斗姿态
+
+## 构图策略
+低角度仰视拍摄，从脚部向上仰拍，突显2B高挑挺拔的身姿和巨大的白之契约大剑。主体位于画面黄金分割点，背景虚化处理，形成强烈的空间纵深感。
+
+## 视觉档案
+- **面部**：冷白皮，面容精致，下巴线条优美。眼罩遮住眼睛，只露出下半张脸，神情冷峻而坚定，略带一丝慵懒。嘴角微微抿紧，透露坚毅与倔强。
+- **发型**：白色短假发，刚到下巴，鬓角用黑色发卡别起。发丝在战斗中微微飘动，带有动态光泽。
+- **服饰**：黑色天鹅绒外套，领口开低露出锁骨，边缘缝有金色花纹。黑色短裙，黑色丝袜（薄款透出皮肤），黑色高跟鞋（10cm细跟）。
+- **武器**：白之契约大剑——剑身狭长，用泡沫板涂成纯白色，在光线下反射出冷冽光芒。剑柄缠着黑色布条（有些磨损），彰显战斗痕迹。
+
+## 环境光效
+伦勃朗光效，冷白色强侧光从左上方打下，在面庞形成明暗交织的三角光区。背景为深色调的展馆环境，有金属架的反光。整体画面呈现冷峻的蓝黑色调，高对比度，胶片颗粒感。
+
+## 战斗姿态描述
+2B单手举起白之契约大剑，剑身竖直向上，剑尖直指穹顶。另一只手在身侧微微张开，保持平衡。她的姿态挺拔如松，脚穿高跟鞋却稳如磐石。冷冽的眼神（虽然被眼罩遮住上半部）透露出"虽千万人吾往矣"的决绝。战斗的汗水微微渗出，在冷白肌肤上形成细微光泽。
+
+## 氛围意境
+冷冽、孤高、决绝。仿佛身处于无尽的战场，周围是硝烟与废墟，而她是最耀眼的那道光。
+
+## 完整提示词
+Chinese woman cosplayer as 2B from NieR: Automata, white short wig to chin, black eye mask covering eyes, exposing only lower face, cold and determined expression, perfect jawline. Black velvet jacket with gold trim at edges, low neckline showing collarbone, black short skirt, black sheer pantyhose revealing skin tone, black stiletto heels 10cm tall, elegant and commanding posture. Holding White Contract greatsword vertically above head with one hand, sword blade gleaming white from foam board with silver reflections, black cloth wrapped around handle showing wear marks. Low-angle shot looking up, subject positioned at golden ratio, sharp focus on face and sword, shallow depth of field with blurred background. Rembrandt lighting, cold white side light creating dramatic triangular illumination on face, deep blue-black background with metallic framework reflections. High contrast film photography aesthetic, film grain texture, ultra-sharp details on hair and skin texture. Cold color palette with blue undertones, cinematic atmosphere, story-telling tension, vertical portrait format 960x1920, 9 steps, ultra-detailed illustration, masterpiece, best quality.

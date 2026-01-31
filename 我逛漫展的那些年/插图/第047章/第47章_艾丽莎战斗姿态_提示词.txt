@@ -1,0 +1,22 @@
+# 艾丽莎 Coser - 双枪战斗姿态
+
+## 构图策略
+动感对角线构图，艾丽莎身体呈V字形展开，双腿分开形成稳定的三角支撑。双枪一前一后，形成交叉火力线。背景采用速度线模糊，增强战斗动感。
+
+## 视觉档案
+- **面部**：元气少女的精致面容，蓝色的眼睛（在灯光下闪亮）透露着坚定与勇敢。神情飒爽而认真，带有战士的坚毅。嘴角微微上扬，露出自信的笑容。
+- **发型**：金色长假发，用两个马尾辫扎起垂至肩膀，发丝在战斗中飞舞，呈现波浪般的动态美感。
+- **服饰**：红色紧身衣凸显活力，外罩白色外套（金色花纹），红色短裙，红色过膝腿袜（白色条纹），红色过膝靴。
+- **武器**：双枪道具——两把造型精致的枪械，握持姿势一正一反，展现出熟练的射击技巧。枪身在展馆灯光下反射出金属光泽。
+
+## 环境光效
+展馆内的多光源效果，主光源为白色顶光，从上方打下形成均匀照明。背景有各色展板灯光的虚化效果。整体色调明亮清晰，充满活力。
+
+## 战斗姿态描述
+艾丽莎呈战斗姿态站立，双腿分开与肩同宽，膝盖微屈，重心稳定。双手各握一把枪——右手正握举枪指向右上方，左手反握举枪指向左上方，身体微微扭转形成交叉火力线。她的眼神专注而坚定，看向右前方，蓝色的美瞳在灯光下闪烁。金色马尾在身后飞舞，与红色的战斗服形成鲜明对比。脸颊因战斗而微微泛红，显示出她的激情与投入。
+
+## 氛围意境
+青春、热血、无所畏惧。仿佛是战场上的女武神，正义感十足，勇往直前。
+
+## 完整提示词
+Chinese woman cosplayer as Estelle from Tales of Vesperia, youthful and energetic appearance, bright blue eyes (enhanced with contact lenses) shining under exhibition hall lighting, determined and brave expression, warrior's determination with confident smile. Golden long hair in twin ponytails falling to shoulders, strands flying dynamically in battle creating wavy motion. Red form-fitting combat suit showing vitality, white jacket with gold patterns, red short skirt, red thigh-high socks with white stripes at edge, red knee-high boots. Dual-wielding pistols in fighting stance, right hand holding gun normally pointing upper right, left hand holding gun in reverse grip pointing upper left, body slightly twisted creating crossed firing line. V-shaped body composition, legs spread shoulder-width apart with knees slightly bent, stable triangular support. Speed line blur in background enhancing battle dynamism. Multiple light sources from exhibition hall, white overhead main lighting providing even illumination, blurred colorful exhibition board lights in background. Bright and clear color palette, energetic atmosphere. Slight blush on cheeks from battle excitement. Vertical portrait format 960x1920, 9 steps, ultra-detailed illustration, masterpiece, best quality.

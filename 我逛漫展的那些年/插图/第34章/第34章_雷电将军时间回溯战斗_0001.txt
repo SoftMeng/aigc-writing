@@ -1,0 +1,27 @@
+# 第34章 雷电将军Coser战斗插画提示词
+
+## 构图策略
+低角度仰视构图+对角线动态构图。角色位于画面黄金分割点偏置位置，呈现仰视的威严感，长刀沿对角线延伸，营造时间力量爆发瞬间的张力。背景融入扭曲的时间波纹效果，形成强烈的空间透视感。
+
+## 视觉档案（角色描述）
+亚洲女性Coser扮演雷电将军，紫色长假发垂至腰间，发丝在时间波纹中微微飘动。精致妆容点缀紫色眼影，眼神中透露出雷电的威严与时间力量的震撼。身穿紫色和服外套白色披风，衣袂在时间乱流中向后飘扬。右手单手握住紫色长刀刀柄，长刀刀身正在释放时间波纹——紫色光芒呈同心圆向外扩散，如水波但更缓慢，如声波但更密集。左手抬起，掌心向上，五指张开，正在释放时间能量。表情凝重而专注，眉头微皱，嘴唇轻抿，体现出掌控时间力量的决心与力量感。肌肤在紫色光芒下微微发光，额头有细腻的汗珠。
+
+## 环境光效
+整体画面采用紫色调为主，混合金色时间碎片光芒。伦勃朗光效从长刀刀身发出，形成强烈的侧逆光效果，照亮角色的侧脸轮廓和飘动的发丝。背景中时间波纹如涟漪般向四周扩散，形成螺旋状的时间乱流。光效中心是角色手中的长刀，刀身上的紫色雷电光芒与金色时间碎片交织，创造出绚烂的时间回溯视觉效果。空气中漂浮着细小的金色时间碎片，如同破碎的镜子反射着过去与现在的画面。
+
+## 技法表现
+采用游戏CG写实风格，融合赛博朋克未来感与古典和风美学。发丝采用高光光泽处理，每根发丝都有细腻的质感变化。长刀采用金属光泽与雷电能量粒子效果，刀刃上流动的紫色雷电如液态能量。衣料采用丝绸质感的渲染，随时间波纹产生自然的褶皱流动。背景时间波纹采用多层半透明叠加技法，形成深邃的时间空间感。
+
+## 色彩点缀
+主色调：深邃紫色、纯白色
+辅助色：金色、青色
+金属点缀：银色刀刃、金色时间碎片
+对比色：紫色与金色的强烈对比，营造神性与时间的交汇
+
+## 意境收束
+画面捕捉雷电将军施展时间回溯的终极瞬间——长刀挥舞间，时间如波纹般荡漾，过去与现在的画面在空间中交错。角色表情中既有对力量的敬畏，也有对时间法则的掌控感。整体画面传达出"技法十七：时间回溯"的核心理念——想象什么，时间就变成什么。
+
+## ComfyUI提示词（竖图格式）
+(masterpiece, best quality, highly detailed), (vertical aspect ratio 960x1920), Asian woman cosplaying Raiden Shogun with long purple hair reaching waist, elaborate purple and white traditional costume with flowing cape, holding long katana with both hands, katana blade emanating expanding purple time ripples, ripples spreading outward in concentric circles like slow waves, golden time fragments floating in air like broken mirrors, intense low-angle shot looking up at character, character positioned at golden ratio point, dynamic diagonal composition, powerful and majestic pose, determined expression with furrowing brows, eyes glowing with purple electric energy, hair strands detailed with light reflections, clothes flowing in time distortion wind, dramatic side-back lighting (Rembrandt lighting), purple and gold color palette, glowing katana with electric energy particles, swirling time vortex background, ethereal atmosphere with floating time shards, hyper-realistic game CG style, silk fabric texture with natural folds, metallic光泽 on katana blade, cinematic lighting, extreme detail on facial features and expressions, sense of temporal power and authority, 8K resolution, ultra-sharp image quality, story-telling moment of time manipulation
+
+Negative prompt: low quality, worst quality, blurry, deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limbs, ugly, blurry, low contrast, dull colors, cartoon, anime style not matching, UI elements, game panels, text overlays

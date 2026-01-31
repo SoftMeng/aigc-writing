@@ -1,0 +1,22 @@
+# T-ELOS Coser - 长枪战斗姿态
+
+## 构图策略
+三分法构图，T-ELOS位于画面左侧三分之一处，长枪横跨画面形成对角线。右侧留白，暗示战场广阔。背景简洁，突出主体。
+
+## 视觉档案
+- **面部**：精致冷艳面容，眉眼如画，眼眸深邃。神情冷峻如机器人般，半睁半闭的眼睛透露漠视一切的淡然。右脸对着镜头（据描述右脸更好看），只露出一只眼睛。
+- **发型**：红色长假发，双马尾辫扎起垂至腰际，发丝柔顺光滑，在战斗中有轻微飘动。
+- **服饰**：红色紧身衣凸显曲线，外罩白色外套（金色花纹装饰），红色短裙，红色过膝腿袜（白色条纹），红色过膝靴。
+- **武器**：长枪道具——枪身用PVC管制成涂成红色，枪头锋利，在光线下闪烁寒光。长度惊人，需要双手或单手稳稳握住。
+
+## 环境光效
+冷调侧光，从右上方45度打下，在面庞形成明显的明暗分界线。背景为深灰色调，有金属质感的反光点。整体画面呈现冷冽的机械美感，低饱和度处理。
+
+## 战斗姿态描述
+T-ELOS侧身站立，右脸对着镜头，只露出一只眼睛——那是一只深邃、冷漠，仿佛能洞察一切的眼睛。她单手举起长枪，枪身倾斜指向斜上方，枪尖在光线下闪烁。身体姿态挺拔而放松，重心稳定。红色长假发垂在身后，与红色战斗服融为一体。她的神情冷漠如千年寒冰，却又带着一丝不易察觉的战意。嘴唇微张，仿佛在念诵什么咒语。
+
+## 氛围意境
+冷漠、神秘、宛如机械降世。仿佛是从未来穿越而来的战斗女神，不带一丝感情，却又美得令人窒息。
+
+## 完整提示词
+Chinese woman cosplayer as T-ELOS from Xenosaga, crimson long hair in twin ponytails falling to waist, smooth silky strands with slight movement in breeze. Cold and emotionless expression, half-closed eyes like robot, revealing only right eye (which is more beautiful), deep and piercing gaze. Red form-fitting combat suit, white jacket with gold patterns, red short skirt, red thigh-high socks with white stripes at edge, red knee-high boots. Single-handed holding long red spear, weapon tilted pointing upward at angle, spear tip gleaming cold light under illumination. Vertical composition with subject at left third, spear creating diagonal line across frame, right side left open suggesting vast battlefield. Cold side lighting from upper right at 45-degree angle, sharp chiaroscuro on face. Dark grey background with metallic reflection spots. Mechanical aesthetic, low saturation processing, cold-toned imagery. Slight parted lips as if chanting incantation. Vertical portrait format 960x1920, 9 steps, ultra-detailed illustration, masterpiece, best quality.

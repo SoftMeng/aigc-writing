@@ -1,0 +1,27 @@
+# 第34章 优菈Coser战斗插画提示词
+
+## 构图策略
+平视对峙构图+对角线动态构图。角色位于画面中心偏左，双腿分开呈稳定站姿，大剑沿对角线斜向劈砍，斩出时间回溯的光刃。背景采用强烈透视构图，时间倒流光芒从剑身向前方汇聚，形成视觉引导线将视线聚焦于剑刃与敌人的交汇点。
+
+## 视觉档案（亚洲女性Coser扮演优菈）
+白色长假发有些打结却更显战斗后的凌乱美感，发丝在冰寒的时间气流中微微结霜。精致的面容带有坚毅的表情，眉头紧锁，眼神锐利如刀，透露出冰原战士的倔强与不屈。身穿白色连衣裙外罩蓝色战斗外套，腰间系着战术腰带凸显腰身曲线。右手单手握住大剑剑身，大剑正在释放蓝色的时间倒流光芒——光芒如冰棱般向前流动，所过之处空气凝结成霜。左手抬起做出战斗手势，指尖有蓝色冰晶凝结。表情冷酷而专注，嘴唇紧抿成一条线，呼出的气息在空中凝结成白色的冰雾。脸颊上有战斗留下的淡淡红晕，肌肤在蓝色光芒下如冰雕般晶莹剔透。
+
+## 环境光效
+整体画面采用冷色调蓝色为主，混合白色冰晶光芒。丁达尔效应光束从上方穿透时间乱流，形成神圣的光柱效果。侧逆光勾勒出角色的轮廓线条，在发丝和衣料边缘形成金色的光晕。大剑释放的蓝色光芒如极光般流动，在背景中形成绚丽的时间回溯光带。空气中漂浮的冰晶在光线照射下折射出七彩光芒，如同时间的碎片在倒流中闪烁。背景融入战斗场地的虚化效果，远处有被时间回溯影响而正在恢复的敌人剪影。
+
+## 技法表现
+采用写实游戏风格，融合西方中世纪骑士美学与东方玄幻元素。发丝采用冰霜质感处理，发梢有细腻的冰晶附着。大剑采用金属光泽与冰晶能量效果，剑刃上流动的蓝色光芒如液态寒冰。衣料采用皮革与金属铠甲的混合质感，战斗后的轻微破损更添真实感。背景时间倒流光芒采用渐变透明叠加技法，形成流动感的时间光河。
+
+## 色彩点缀
+主色调：冰蓝色、纯白色
+辅助色：银色、青紫色
+金属点缀：剑刃的银色光泽、铠甲的金色纹饰
+对比色：蓝色的冷冽与金色的温暖形成戏剧性对比
+
+## 意境收束
+画面捕捉优菈施展时间回溯的震撼瞬间——大剑挥舞间，蓝色的时间光芒如潮水般涌出，将战斗的画面倒回起点。敌人正在从被击败的状态恢复，战斗的轨迹在时间中后退。角色表情冷酷而坚定，体现"改变结果，重新选择"的技法核心。整体画面传达出冰原战士对命运的抗争与时间法则的掌控。
+
+## ComfyUI提示词（竖图格式）
+(masterpiece, best quality, highly detailed), (vertical aspect ratio 960x1920), Asian woman cosplaying Ayaka with long white hair slightly tangled and frosty, wearing white dress with blue combat jacket, holding large sword with single hand, sword blade emanating flowing blue time-reverse light like ice shards, light flowing forward and freezing air into frost crystals, intense eye-level tension composition, character positioned slightly left at golden ratio, diagonal sword slash composition, determined cold expression with furrowed brows, sharp piercing eyes, frost breath visible in air, cheeks with battle flush, skin crystalline under blue glow, flowing hair with ice crystal details, fabric with leather and metal armor texture, dramatic side-back lighting (Rembrandt lighting), blue and white color palette, glowing sword with icy energy particles, time-reverse light bands flowing like aurora, floating ice crystal time fragments, hyper-realistic game CG style, medieval knight aesthetic with fantasy elements, metallic光泽 on sword blade, cinematic lighting, extreme detail on facial features and frost effects, sense of temporal power and determination, 8K resolution, ultra-sharp image quality, story-telling moment of time manipulation reversing battle outcome
+
+Negative prompt: low quality, worst quality, blurry, deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limbs, ugly, blurry, low contrast, dull colors, cartoon, anime style not matching, UI elements, game panels, text overlays, warm colors

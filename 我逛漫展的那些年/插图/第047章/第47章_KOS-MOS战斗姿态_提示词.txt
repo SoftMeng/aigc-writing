@@ -1,0 +1,22 @@
+# KOS-MOS Coser - 双枪战斗姿态
+
+## 构图策略
+动态对角线构图，KOS-MOS呈45度侧立，身体微微扭转形成富有张力的曲线。手持双枪，枪口分别指向不同方向。背景采用速度线虚化，增强动感。
+
+## 视觉档案
+- **面部**：冷艳御姐颜，高鼻深目，眼神锐利如鹰。神情专注而自信，嘴角带着一丝傲然的微笑。
+- **发型**：红色长假发，用两个高马尾辫扎起，马尾垂至腰际，发丝在战斗中随风飘扬，呈现流畅的波浪曲线。
+- **服饰**：白色紧身战斗服凸显玲珑曲线，外面罩着蓝色外套，外套上有精美的金色花纹。白色短裙，白色过膝腿袜（边缘有蓝色条纹），白色过膝靴（裹得很紧）。
+- **武器**：双枪道具——枪身用金属质感涂层，在光线下反射出冷冽光芒。枪体线条流畅，握把符合人体工学设计。
+
+## 环境光效
+混合光源：主光源为暖黄色侧逆光，勾勒出身体轮廓；副光源为冷蓝色点光源，聚焦于双枪枪身。整体色调为冷暖对比，营造科幻未来感。背景有霓虹灯光斑效果。
+
+## 战斗姿态描述
+KOS-MOS双脚分开与肩同宽，重心稳定。双手各握一把枪，左手枪口低垂指向地面，右手举枪过头顶指向斜上方。身体微微侧转，展现战斗中的动态平衡。她的眼神锐利地注视着前方，仿佛能穿透一切阻碍。红发在身后如火焰般飘扬，与白色战斗服形成强烈对比。战斗的激情让她的脸颊微微泛红，汗水在发丝间闪烁。
+
+## 氛围意境
+冷艳、强势、掌控一切。仿佛是战场上的女王，弹无虚发，敌莫能挡。
+
+## 完整提示词
+Chinese woman cosplayer as KOS-MOS from Xenosaga, striking red long hair in twin ponytails reaching waist, wind-swept strands creating dynamic flow. Cold and confident expression, sharp eagle-like eyes, hint of proud smile on lips. White form-fitting combat suit, blue jacket with intricate gold patterns, white short skirt, white thigh-high socks with blue stripes at edge, white knee-high boots fitting tightly. Dual-wielding pistols, one hand holding gun pointing upward at angle, other gun lowering toward ground, metallic gun surface reflecting cold light. Dynamic diagonal composition, subject at 45-degree angle, speed line blur in background enhancing motion. Mixed lighting: warm amber backlight outlining silhouette, cool blue spotlight focusing on guns. Sci-fi futuristic atmosphere, neon light bloom effects in background, warm-cool color contrast, cinematic action shot. Slight blush on cheeks from battle excitement, sweat glistening between hair strands. Vertical portrait format 960x1920, 9 steps, ultra-detailed illustration, masterpiece, best quality.
